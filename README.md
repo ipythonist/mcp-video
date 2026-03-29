@@ -2,7 +2,9 @@
 
 Video intelligence MCP server for AI-powered video analysis. Extract keyframes, transcripts, and visual content from any video URL — right inside Claude Code or any MCP client.
 
-![demo](demo.gif)
+<p align="center">
+  <img src="assets/architecture.svg" alt="mcp-video architecture" width="860"/>
+</p>
 
 ## What it does
 
