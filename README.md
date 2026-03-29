@@ -2,6 +2,8 @@
 
 Video intelligence MCP server for AI-powered video analysis. Extract keyframes, transcripts, and visual content from any video URL — right inside Claude Code or any MCP client.
 
+![demo](demo.gif)
+
 ## What it does
 
 Point it at any video (YouTube, Vimeo, Twitter/X, Instagram, and [1000+ sites](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)) and get:
